@@ -10,7 +10,7 @@ public class Programming_Task1 {
               count++;
             }
 	        }
-	        System.out.println("The number of different possibilities  to divide the herd = ");
+	        System.out.println("Theno.of possibilities to divide herd ");
 	      return count;
 	    }
 	
